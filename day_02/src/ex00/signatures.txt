@@ -1,0 +1,15 @@
+bin, 53 50 30 31
+gif, 47 49 46 38 37 61
+gif, 47 49 46 38 39 61
+jpg, FF D8 FF DB
+jpg, FF D8 FF E0 ?? ?? 4A 46 49 46 00 01
+jpg, FF D8 FF E1 ?? ?? 45 78 69 66 00 00
+exe, 4D 5A
+zip, 50 4B 03 04
+zip, 50 4B 05 06
+zip, 50 4B 07 08
+png, 89 50 4E 47 0D 0A 1A 0A
+class, CA FE BA BE
+pdf, 25 50 44 46 2D
+doc, D0 CF 11 E0 A1 B1 1A E1
+jpeg, FF D8 FF E0 00 10 4A 46 49 46
