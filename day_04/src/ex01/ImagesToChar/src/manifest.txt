@@ -1,0 +1,2 @@
+main-class: src.java.app.Program
+class-path: target/
